@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sfdata-stream-tutorial"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["Kaj Siebert <kaj@k-si.com>"]
 license = "MIT"
